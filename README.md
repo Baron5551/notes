@@ -3,3 +3,5 @@
 https://github.com/bytebot-ai/bytebot
 
 https://github.com/simstudioai/sim
+
+https://github.com/ollama/ollama
